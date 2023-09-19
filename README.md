@@ -1,2 +1,2 @@
 # Crowdfunding_ETL
-Project 2 Repo for ETL Project
+Project 2, Group 3 Crowdfunding ETL
