@@ -11,27 +11,27 @@ After transforming the data, we will create four CSV files an duse the CSV file 
 
 ### Delieverable Leads:
 * [ETL_Mini_Project_Starter_Code_Esther.ipynb](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Esther.ipynb) -- Esther creating the Category, Subcategory and Campaign dataframes
-</br>
+</ br>
 * [ETL_Mini_Project_Starter_Code_Esther_Laura.ipynb](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Esther_Laura.ipynb) -- Laura building the Regex Contacts Dataframe from Esther's original work
-</br>
+</ br>
 * [ETL_Mini_Project_Starter_Code_Logan.ipynb](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Logan.ipynb) -- Logan building the Pandas Contacts Dataframe from Esther's original work
-</br>
+</ br>
 * [Crowdfunding Database]() -- Jake building the Crowdfunding database, using Logan's Contacts, built from Esther's original dataframes
-</br>
+</ br>
 * Category and Subcategory DataFrames: category.csv, subcategory.csv -- Esther
-</br>
+</ br>
 * ECampaign DataFrame: campaign.csv -- Esther
-</br>
+</ br>
 * Contacts DataFrame: contacts.csv, contacts_regex_clean.csv -- Logan and Laura
-</br>
+</ br>
 * Crowdfunding Database: CHANGE_NAME.csv -- Jake
 
 ### Resources Used:
-Our group used the following link as a reference when changing the format of a pandas column to datetime:</br>
+Our group used the following link as a reference when changing the format of a pandas column to datetime:</ br>
     * https://stackoverflow.com/questions/51587468/datetime-defaulting-to-1970-in-pandas
-</br>
-</br>
-In googling the error 'ValueError: pattern contains no capture groups', our group used the following: </br>
-    * https://cumsum.wordpress.com/2021/06/06/pandas-valueerror-pattern-contains-no-capture-groups/#:~:text=This%20errors%20out%20because%20there's,be%20kept%20in%20the%20result</br>
-    * https://docs.python.org/3/library/re.html</br>
-    * https://www.regular-expressions.info/refcapture.html</br>
+</ br>
+</ br>
+In googling the error 'ValueError: pattern contains no capture groups', our group used the following: </ br>
+    * https://cumsum.wordpress.com/2021/06/06/pandas-valueerror-pattern-contains-no-capture-groups/#:~:text=This%20errors%20out%20because%20there's,be%20kept%20in%20the%20result</ br>
+    * https://docs.python.org/3/library/re.html</ br>
+    * https://www.regular-expressions.info/refcapture.html</ br>
