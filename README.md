@@ -18,9 +18,11 @@ After transforming the data, we will create four CSV files an duse the CSV file 
 
 * [Crowdfunding Database]() -- Jake building the Crowdfunding database, using Logan's Contacts, built from Esther's original dataframes
 
+* [ETL_Mini_Project_Final]() -- Final project, all elements combined
+
 * Category and Subcategory DataFrames: category.csv, subcategory.csv -- Esther
 
-* ECampaign DataFrame: campaign.csv -- Esther
+* Campaign DataFrame: campaign.csv -- Esther
 
 * Contacts DataFrame: contacts.csv, contacts_regex_clean.csv -- Logan and Laura
 
