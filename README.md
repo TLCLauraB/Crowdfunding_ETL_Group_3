@@ -3,9 +3,9 @@
 Esther Baumgartner (EstherBaum), Laura Bishop (TLCLauraB), Jake Moen (JacobMoen) and Logan Severson (LSever32)
 
 ### Description:
-In this ETL mini-project, Group 3 will work to build an ETL pipeline using Python, Pandas and and either Python dictionary methods or regular expressions to extract and transform the data. 
+In this ETL mini-project, Group 3 will work to build an ETL pipeline using Python, Pandas and either Python dictionary methods or regular expressions to extract and transform the data. 
 
-For 'Create the Contacts DataFrame', we created two contacts dataframes using using both Option 1: Python dictionary and Option 2: regular expressions. In the main body of work, we utilized Option 1, leaving Option 2 as 'extra credit'.
+For 'Create the Contacts DataFrame', we created two contact dataframes using both Option 1: Python dictionary and Option 2: regular expressions. In the main body of work, we utilized Option 1 to go forward, leaving Option 2 as 'extra credit'.
 
 After transforming the data, we will create four CSV files and use the CSV file data to create an ERD and table schema. Finally, we will upload the CSV file data into a Postgres database.
 
