@@ -28,6 +28,8 @@ After transforming the data, we will create four CSV files and use the CSV file 
 
 * Crowdfunding Database: CHANGE_NAME.csv -- Jake
 
+* README -- Laura
+
 ### Resources Used:
 Our group used the following link as a reference when changing the format of a pandas column to datetime:
 
