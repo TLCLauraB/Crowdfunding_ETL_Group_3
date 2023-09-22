@@ -16,9 +16,9 @@ After transforming the data, we will create four CSV files and use the CSV file 
 
 * [ETL_Mini_Project_Starter_Code_Logan.ipynb](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Logan.ipynb) -- Logan building the Pandas Contacts Dataframe from Esther's original work
 
-* [Crowdfunding Database]() -- Jake building the Crowdfunding database, using Logan's Contacts, built from Esther's original dataframes
+* [Crowdfunding Database--CHANGE_NAME--ADD_URL]() -- Jake building the Crowdfunding database, using Logan's Contacts, built from Esther's original dataframes
 
-* [ETL_Mini_Project_Final]() -- Final project, all elements combined
+* [ETL_Mini_Project_Final--CHANGE_NAME--ADD_URL]() -- Final project, all elements combined
 
 * Category and Subcategory DataFrames: category.csv, subcategory.csv -- Esther
 
