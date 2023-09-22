@@ -7,7 +7,7 @@ In this ETL mini-project, Group 3 will work to build an ETL pipeline using Pytho
 
 For 'Create the Contacts DataFrame', we created two contacts dataframes using using both Option 1: Python dictionary and Option 2: regular expressions. In the main body of work, we utilized Option 1, leaving Option 2 as 'extra credit'.
 
-After transforming the data, we will create four CSV files an duse the CSV file data to create an ERD and table schema. Finally, we will upload the CSV file data into a Postgres database.
+After transforming the data, we will create four CSV files and use the CSV file data to create an ERD and table schema. Finally, we will upload the CSV file data into a Postgres database.
 
 ### Delieverable Leads:
 * [ETL_Mini_Project_Starter_Code_Esther.ipynb](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Esther.ipynb) -- Esther creating the Category, Subcategory and Campaign dataframes
