@@ -24,7 +24,7 @@ After transforming the data, we will create four CSV files and use the CSV file 
 
 * Contacts DataFrame: contacts.csv, contacts_regex_clean.csv -- Logan and Laura
 
-* Crowdfunding Database: CHANGE_NAME.csv -- Jake
+* Crowdfunding Database: Postgres file crowdfunfing_db_schema.sql -- Jake
 
 * README -- Laura
 
