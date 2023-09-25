@@ -16,7 +16,7 @@ After transforming the data, we will create four CSV files and use the CSV file 
 
 * [ETL_Mini_Project_Starter_Code_Logan.ipynb](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Logan.ipynb) -- Logan building the Pandas Contacts Dataframe from Esther's original work
 
-* [ETL_Mini_Project_Final--CHANGE_NAME--ADD_URL]() -- Final project, all elements combined
+* [ETL_Mini_Project_Final](https://github.com/TLCLauraB/Crowdfunding_ETL_Group_3/blob/main/ETL_Mini_Project_Starter_Code_Final.ipynb) -- Final project, all elements combined
 
 * Category and Subcategory DataFrames: category.csv, subcategory.csv -- Esther
 
